@@ -25,4 +25,4 @@ Download DigiBuddy now and start building habits that last.
 
 ## Built For
 
-* iPhone (requires iOS 18.6 or later)
+* iPhone (requires iOS 18.2 or later)
