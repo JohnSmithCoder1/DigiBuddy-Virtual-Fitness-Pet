@@ -2,21 +2,19 @@
 
 <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_1.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_2.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_3.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_4.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_5.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_6.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_7.png" width="120">
 
-Meet DigiBuddy—the walking and workout game that turns your daily activity into care for your buddy. Every step, run, or exercise session helps your digi grow stronger and happier, while you build habits that last.
+What if your fitness tracker actually cared whether you showed up today?
 
-Instead of a tracker that just counts steps, DigiBuddy makes your health journey engaging, accountable, and fun.
+DigiBuddy turns your daily steps and exercise into care for a virtual pet who depends on you. Your steps are their walks. Your workouts are their playtime. It's the fun, motivating layer that transforms activity tracking from something you forget into something you genuinely look forward to every day.
 
-Why DigiBuddy works:
-* **A Fitness Buddy Who Depends on You** – Your virtual pet thrives when you move, giving you instant motivation to stay active.
-* **Gamified Habits That Stick** – Walking, running, and workouts turn into streaks, milestones, and celebrations.
-* **Daily Goals Made Personal** – Set step and exercise targets that fit your lifestyle—not someone else’s.
-* **Accountability Made Simple** – See progress summaries, earn rewards, and keep your streaks alive.
-* **Seamless Apple Health Sync** – Automatically track activity from your iPhone or Apple Watch.
-* **Balanced Self-Care** – Pause streaks when life gets busy so healthy habits stay positive, not stressful.
+Why you’ll love DigiBuddy:
+* A fitness buddy who needs you — Your digi reacts to your real-world activity, celebrating your wins and gently letting you know when they need more care
+* Gamified goals made personal — Set your own step and exercise targets, earn Happy Days when you hit them, and level up your digi with Happy Day streaks
+* Seamless Apple Health sync — Automatically track activity from your iPhone or Apple Watch, or log manually for more control
+* Smart, supportive notifications — Friendly reminders that automatically stop once you’ve already hit your goals for the day
+* Encouragement over pressure — DigiBuddy is built for motivation and consistency. Every day is a fresh start, and your digi is always rooting for you.
 
-With DigiBuddy, your activity isn’t just exercise—it’s care for your buddy, pride in your streaks, and a playful push toward healthier routines.
+If you struggle to stay consistent, lose interest in other fitness apps after a week, or just need that extra push most days — your digi is waiting.
 
-Ready to walk, run, and level up with your buddy?
 Download DigiBuddy now and start building habits that last.
 
 ## Apple App Store ID
