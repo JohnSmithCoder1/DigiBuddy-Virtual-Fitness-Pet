@@ -2,7 +2,7 @@
 
 <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_1.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_2.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_3.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_4.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_5.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_6.png" width="120"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_7.png" width="120">
 
-What if your fitness tracker actually cared whether you showed up today?
+What if your fitness tracker actually cared if you showed up today?
 
 DigiBuddy turns your daily steps and exercise into care for a virtual pet who depends on you. Your steps are their walks. Your workouts are their playtime. It's the fun, motivating layer that transforms activity tracking from something you forget into something you genuinely look forward to every day.
 
