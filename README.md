@@ -13,9 +13,9 @@ Why you’ll love DigiBuddy:
 * Smart, supportive notifications — Friendly reminders that automatically stop once you’ve already hit your goals for the day
 * Encouragement over pressure — DigiBuddy is built for motivation and consistency. Every day is a fresh start, and your digi is always rooting for you.
 
-If you struggle to stay consistent, lose interest in other fitness apps after a week, or just need that extra push most days — your digi is waiting.
+If you struggle to stay consistent and lose interest in other fitness apps after a week — your digi is waiting.
 
-Download DigiBuddy now and start building habits that last.
+Download DigiBuddy and start building habits that last.
 
 ## Apple App Store ID
 
