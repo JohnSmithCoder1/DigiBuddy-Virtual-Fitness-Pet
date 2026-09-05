@@ -1,6 +1,6 @@
 # DigiBuddy Privacy Policy
 
-Last updated: July 18, 2026
+Last updated: September 5, 2026
 
 DigiBuddy does not require an account or login. DigiBuddy does not collect your
 name, email address, phone number, contacts, precise location, or advertising
@@ -13,21 +13,15 @@ microphone, and does not include advertising or social-media integrations.
 ## HealthKit Data
 
 DigiBuddy integrates with Apple HealthKit to display your progress toward
-selected fitness goals, including:
-
-* Steps
-* Exercise minutes
-
-Access to HealthKit data is entirely optional and can be granted or denied per
-category within Apple Health settings.
+your selected step goal.
 
 Your health data never leaves your device. DigiBuddy does not transmit, store, or
-share your HealthKit step counts, exercise minutes, fitness goals, or raw
+share your HealthKit step counts, step goal, or raw
 progress percentages with PostHog, any other external server, third party, or
 other app, and never uses HealthKit data for advertising, marketing, or data
 mining. DigiBuddy's analytics may record only whether a synchronization feature
 is turned on and an already-abstract daily status category (such as a "green
-day"); these never contain your underlying HealthKit values or goals. DigiBuddy
+day"); these never contain your underlying HealthKit values or goal. DigiBuddy
 follows Apple's HealthKit guidelines.
 
 ## Pseudonymous Usage Analytics
@@ -58,7 +52,7 @@ The information collected may include:
 
 Analytics never includes:
 
-* Your HealthKit step counts, exercise minutes, fitness-goal values, or raw
+* Your HealthKit step counts, step goal values, or raw
   completion percentages
 * The name you gave your Digi
 * Your name, email address, phone number, contacts, or precise location
